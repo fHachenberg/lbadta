@@ -1,0 +1,6 @@
+Little Big Adventure Data Library
+Version 0.1
+
+This is a collection of C routines for reading data files from Little Big Adventure (Copyright 1994 by Adeline Software International) and Little Big Adventure 2 (Copyright 1997 by Adeline Software International).
+
+It is mainly based on the seminal work of Vincent Hamm, who created a complete reimplementation of the game engine of Little Big Adventure (http://sourceforge.net/projects/twin-e/)
